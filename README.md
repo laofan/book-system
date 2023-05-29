@@ -68,7 +68,7 @@ Springboot | MybatisPlus | Thymeleaf | Maven | Mysql
 
 
 △个人信息
-   个人信息显示当前账户的个人信息，点击“修改”可以修改个人信息。  
+   个人信息显示当前账户的个人信息，点击“修改”可以修改个人信息。    
 ![输入图片说明](image14.png)
 
 
