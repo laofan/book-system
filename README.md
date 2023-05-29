@@ -86,4 +86,4 @@ Springboot | MybatisPlus | Thymeleaf | Maven | Mysql
 ![作者微信](xunmaw001.jpg)
 
 这是作者的公众号二维码，是不是推一些新开发的项目源码与高效软件工具，感兴趣的朋友给个关注  
-![作者公众号](xunmaw%E5%85%AC%E4%BC%97%E5%8F%B7.jpg#pic_left=100x100)
+![作者公众号](xunmaw%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
